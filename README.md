@@ -1,10 +1,15 @@
 README
-# Bear Power Pack
 
-* [Bear Photo Journal](bear://x-callback-url/open-note?id=BF688BE8-D42F-419D-B831-01520F86C8D9-3466-000004070E620399)
-* [Publish from Bear to WordPress on iOS](bear://x-callback-url/open-note?id=F6148761-E1FD-4C44-ACBA-A5D7AD726B20-51405-000134869E21827C)
-* [Bear Search & Replace](bear://x-callback-url/open-note?id=1ECA3D50-094F-48AA-84CD-03034DF7D0E9-7472-0000086D46945006)
-* [Bear TOC](bear://x-callback-url/open-note?id=E15F0D68-128E-4A7D-AB0D-A82C640552B9-7472-0000086612FFBA3D)
-* [Bear snapshot and restore](bear://x-callback-url/open-note?id=482A57EB-E93A-4532-AF3A-0B6F2242C75C-7472-0000086E771A9D7D)
+# Bear Power Pack
+> A collection of workflows enhancing Bear writer app on iOS and Mac.  
+
+*Disclaimer: these workflows are free to use, change, or fix. There will be no user support. It’s quite easy to change the workflows, and if you mess up, just download a fresh copy. Have fun!* 🤓
+
+* [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – iOS Workflow
+* [Publish from Bear to WordPress on iOS](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS Workflow
+* [Bear Search & Replace](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Search%20%26%20Replace.md) – iOS Workflow
+* [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS Workflow
+* [Bear snapshot and restore](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20snapshot%20and%20restore.md) – iOS Workflow
+* [Markdown export and sync of Bear notes](https://github.com/rovest/Bear-Markdown-Export) – Mac – Python 3.x
 
 #github/bear
