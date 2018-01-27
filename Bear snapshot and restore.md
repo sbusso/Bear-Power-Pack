@@ -15,6 +15,6 @@ Great for backup (snapshot) of different stages of writing: 1st draft, 2nd, fina
 ### Bear Note Restore
 Restores single notes from snapshots, exports or backups.
 
-(*Written and edited in Bear on iOS and Mac*)
+*Written and edited in* 🐻 *on iOS and Mac*
 
 #github/bear

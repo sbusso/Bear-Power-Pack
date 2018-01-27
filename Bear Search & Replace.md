@@ -1,4 +1,5 @@
 # Bear Search & Replace
+*Version 1.1 – 2018-01-27*
 
 Text replace, RegEx, and text factories on Bear notes on iOS.
 
@@ -14,7 +15,6 @@ Text replace, RegEx, and text factories on Bear notes on iOS.
 - Choice of plain text replace, case sensitive, or RegEx
 - Predefined text factories
 
-(*Written and edited in Bear on iOS and Mac*)
-
+*Written and edited in* 🐻 *on iOS and Mac*
 
 #github/bear

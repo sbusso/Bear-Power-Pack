@@ -1,5 +1,4 @@
 # Bear Photo Journal
-
 Makes a journal entry in Bear with date, photo, address, and map link
 
 **Install Workflow: [Bear Photo Journal](https://workflow.is/workflows/ec001e9e735145628474d9a253d8ae82)**
@@ -21,6 +20,6 @@ Makes a journal entry in Bear with date, photo, address, and map link
 
 > {{The two actions below, inserts a blank line before photo, to prevent it becoming featured image of WP blogpost when publishing with the "Bear note to WordPress" workflow.}} But if you mostly want this photo as feature image, just remove the two actions below  
 
-(*Written and edited in Bear on iOS and Mac*)
+*Written and edited in* 🐻 *on iOS and Mac*
 
 #github/bear
