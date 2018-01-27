@@ -2,7 +2,7 @@
 
 Makes TOC in Bear Notes on iOS as bullet or number list, with or without HTML links.
 
-**Install Workflow: [Bear TOC](https://workflow.is/workflows/ddb1a11c576d4013a9e367f192c618fc)**
+**Install Workflow: [Bear TOC](https://workflow.is/workflows/0ebf0876498f47feb60cc1426e7fa5b8)**
 
 *See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
