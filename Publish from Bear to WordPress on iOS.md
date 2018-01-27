@@ -5,7 +5,7 @@ This workflow publishes notes from Bear to WordPress with images, tags, and feat
 
 It works well with both WordPress.com and WordPress.org (self hosted WordPress) sites.
 
-**Install Workflow:  [Bear note to WordPress](https://workflow.is/workflows/c9ece7c8e2e64d4599c74ed6824f54b4)**
+**Install Workflow:  [Bear note to WordPress](https://workflow.is/workflows/c9ece7c8e2e64d4599c74ed6824f54b4)** – iOS
 
 *See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
@@ -101,7 +101,6 @@ The `Make HTML from Rich Text` action inserts two  `<br />`  if linebreakrs are 
 For debugging, place a `Quick Look` action after the Text action to see what’s needs to be change. And check against result in html edit mode on blog site. Tip: insert a photo in WP editor and see how the image url is supposed to be.
 
 ![](images/10BE512F-718A-490B-AECF-D3D26661D8BF%201.jpg)
-
 
 <a id="toc-9"></a>
 ## [Regular Expressions in workflow](#toc-top)

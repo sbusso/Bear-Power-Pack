@@ -1,7 +1,7 @@
 # Bear Photo Journal
 Makes a journal entry in Bear with date, photo, address, and map link
 
-**Install Workflow: [Bear Photo Journal](https://workflow.is/workflows/ec001e9e735145628474d9a253d8ae82)**
+**Install Workflow: [Bear Photo Journal](https://workflow.is/workflows/ec001e9e735145628474d9a253d8ae82)** – iOS
 
 *See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 

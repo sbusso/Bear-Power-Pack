@@ -3,7 +3,7 @@
 
 Text replace, RegEx, and text factories on Bear notes on iOS.
 
-**Install workflow: [Bear Search & Replace](https://workflow.is/workflows/1c1d07a554b54822a98ea5fb16147aad)**
+**Install workflow: [Bear Search & Replace](https://workflow.is/workflows/1c1d07a554b54822a98ea5fb16147aad)** – iOS
 
 *See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
