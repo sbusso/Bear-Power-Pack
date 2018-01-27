@@ -1,6 +1,6 @@
 # Bear TOC
 
-> Makes TOC in Bear Notes:  
+Makes TOC in Bear Notes on iOS as bullet or number list, with or without HTML links.
 
 **Install Workflow: [Bear TOC](https://workflow.is/workflows/ddb1a11c576d4013a9e367f192c618fc)**
 
@@ -14,8 +14,9 @@
 - Use <!--TOC--> to merge with text,
 - Or paste TOC manually.
 - As bullet or numbered lists
-- Optional HTML links
-- On Mac use [Marked 2](http://marked2app.com) that works very well with Bear and has a more advanced TOC function (uses same <!--TOC--> tag).
+- Optional with HTML links
+- Delete or reapply TOC to edited “toc’ed” note, or use from original as a last step before publish.
+- On Mac you can use [Marked 2](http://marked2app.com) that works very well with Bear and has a more advanced TOC function (uses same <!--TOC--> tag).
 
 (*Written and edited in Bear on iOS and Mac*)
 

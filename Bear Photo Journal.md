@@ -1,6 +1,6 @@
 # Bear Photo Journal
 
-> Makes a journal entry in Bear with date, photo, address, and map link.  
+Makes a journal entry in Bear with date, photo, address, and map link
 
 **Install Workflow: [Bear Photo Journal](https://workflow.is/workflows/ec001e9e735145628474d9a253d8ae82)**
 

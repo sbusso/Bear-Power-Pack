@@ -1,6 +1,6 @@
 # Bear Search & Replace
 
-> Text replace, RegEx, and text factories.  
+Text replace, RegEx, and text factories on Bear notes on iOS.
 
 **Install workflow: [Bear Search & Replace](https://workflow.is/workflows/3c8ed87a3a584ae5bd89db36a6566dfe)**
 
