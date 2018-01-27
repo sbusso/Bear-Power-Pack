@@ -5,10 +5,10 @@ A collection of workflows enhancing Bear writer app on iOS and Mac.
 
 Bear has a great implementation of export formats, x-callback-urls, and iOS Workflow.app integration, making extension like these possible.
 
-Hope these workflows can be useful examples and inspire to more workflows. And hopefully some of them will come as Bear in-app features …
-
+Hope these workflows can be useful examples and inspire to more workflows. Hopefully some of them will come as Bear in-app features – in-the future …   
 🦁🤓
 
+## Workflows
 * [Publish from Bear to WordPress on iOS](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS Workflow
 * [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS Workflow
 * [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – iOS Workflow
