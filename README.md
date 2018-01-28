@@ -31,6 +31,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Export and roundtrip sync of Bear's notes to OneDrive, Dropbox, etc. 
 	* Edit or share online in browser, or edit on Android and Windows in any markdown editor there.
 	* Remote edits and new notes get synced back into Bear.
+* [Bear desktop shortcuts](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20desktop%20shortcuts.md) – Mac
+	* Make any Bear x-callback-url command into a Mac desktop shortcut.
 
 PS. I got Bear for distraction free writing – see how that worked … 😉
 
