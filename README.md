@@ -17,6 +17,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* With or without HTML links.
 * [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – iOS  
 	* Makes a journal entry in Bear with date, photo, address, and map links.
+	* Get tagged: `#journal/yyyy/MM`
 * [Import Zip to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Import%20Zip%20to%20Bear.md) – iOS  
 	* Bulk import markdown or text files from a .zip archive.
 * [Bear Search & Replace](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Search%20%26%20Replace.md) – iOS  
