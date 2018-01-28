@@ -18,12 +18,12 @@ See: [X callback url Scheme documentation - Bear - Faq and support](http://www.b
 
 ## Themes – samples
 
-`Save as` or drag to Mac desktop:
+*Click to download (Mac only):*
 
-* [Bear - Red Graphite.inetloc](assets/Bear%20-%20Red%20Graphite.inetloc) 
-* [Bear - Solarized Dark.inetloc](assets/Bear%20-%20Solarized%20Dark.inetloc) 
-* [Bear - Panic Mode.inetloc](assets/Bear%20-%20Panic%20Mode.inetloc) 
-* [Bear - Charcoal.inetloc](assets/Bear%20-%20Charcoal.inetloc)
+* [Bear - Red Graphite.inetloc](assets/Bear%20-%20Red%20Graphite.inetloc?raw=true) 
+* [Bear - Solarized Dark.inetloc](assets/Bear%20-%20Solarized%20Dark.inetloc?raw=true) 
+* [Bear - Panic Mode.inetloc](assets/Bear%20-%20Panic%20Mode.inetloc?raw=true) 
+* [Bear - Charcoal.inetloc](assets/Bear%20-%20Charcoal.inetloc?raw=true)
 
 #github/bear
 
