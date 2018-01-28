@@ -2,9 +2,9 @@
 Makes a journal entry in Bear with date, photo, address, and map link
 
 - **Install Workflow: [Bear Photo Journal](https://workflow.is/workflows/ec001e9e735145628474d9a253d8ae82) – iOS**  
-- **Keyboard Maestro Workflow: [Bear Photo Journal](assets/Bear%20Photo%20Journal.kmmacros?raw=true) – Mac**  
+- **Keyboard Maestro Workflow: [Bear Photo Journal](assets/Bear%20Photo%20Journal.kmmacros) – Mac**  
 (multiple photos from Finder)
-- **Automator Workflow: [Bear Journal Entry](assets/Bear%20Journal%20Entry.wflow?raw=true) – Mac**   
+- **Automator Workflow: [Bear Journal Entry](assets/Bear%20Journal%20Entry.wflow) – Mac**   
 (no photos)
 
 *See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
