@@ -9,7 +9,7 @@ Bulk import markdown or text files from a .zip archive.
 
 ## Features
 - Imports multiple files as Bear notes tagged:   
-#zip import#/yyyy-MM-dd
+`#zip import#/yyyy-MM-dd`
 - Displays result in Bear with open-tag command.
 - Then rename tag in taglist as it suits you :)
 
