@@ -1,5 +1,5 @@
 # Import Zip to Bear
-v.1.0 - 2018-01-27
+*Version 1.0 – 2018-01-27*
 
 Bulk import markdown or text files from a .zip archive.
 
