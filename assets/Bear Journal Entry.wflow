@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>444.4</string>
+	<key>AMApplicationVersion</key>
+	<string>2.8</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMActionVersion</key>
+				<string>1.2.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>TextEdit</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>enteredRTFDData</key>
+					<dict/>
+					<key>enteredText</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>Single</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.attributed-string</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Get Specified Text.action</string>
+				<key>ActionName</key>
+				<string>Get Specified Text</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>enteredRTFDData</key>
+					<data>
+					cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRm
+					AQAAAC6tBAAAKwAAAAEAAAClBAAAe1xydGYx
+					XGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYx
+					NTYxXGNvY29hc3VicnRmMjAwCntcZm9udHRi
+					bFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1S
+					ZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1
+					XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDEyNlxn
+					cmVlbjEyOFxibHVlMTI4O30Ke1wqXGV4cGFu
+					ZGVkY29sb3J0Ymw7O1xjc2dlbmVyaWNyZ2Jc
+					YzQ5MzgzXGM1MDAwMFxjNTAwMDA7fQpccGFy
+					ZFx0eDU3N1x0eDExNTVcdHgxNzMzXHR4MjMx
+					MVx0eDI4ODlcdHgzNDY3XHR4NDA0NVx0eDQ2
+					MjNcdHg1MjAxXHR4NTc3OVx0eDYzNTdcdHg2
+					OTM1XHR4NzUxM1x0eDgwOTFcdHg4NjY5XHR4
+					OTI0N1x0eDk4MjVcdHgxMDQwM1x0eDEwOTgx
+					XHR4MTE1NTlcdHgxMjEzN1x0eDEyNzE1XHR4
+					MTMyOTNcdHgxMzg3MVx0eDE0NDQ5XHR4MTUw
+					MjdcdHgxNTYwNVx0eDE2MTgzXHR4MTY3NjFc
+					dHgxNzMzOVx0eDE3OTE3XHR4MTg0OTVcdHgx
+					OTA3Mlx0eDE5NjUwXHR4MjAyMjhcdHgyMDgw
+					Nlx0eDIxMzg0XHR4MjE5NjJcdHgyMjU0MFx0
+					eDIzMTE4XHR4MjM2OTZcdHgyNDI3NFx0eDI0
+					ODUyXHR4MjU0MzBcdHgyNjAwOFx0eDI2NTg2
+					XHR4MjcxNjRcdHgyNzc0Mlx0eDI4MzIwXHR4
+					Mjg4OThcdHgyOTQ3Nlx0eDMwMDU0XHR4MzA2
+					MzJcdHgzMTIxMFx0eDMxNzg4XHR4MzIzNjZc
+					dHgzMjk0NFx0eDMzNTIyXHR4MzQxMDBcdHgz
+					NDY3OFx0eDM1MjU2XHR4MzU4MzRcdHgzNjQx
+					Mlx0eDM2OTkwXHR4Mzc1NjdcdHgzODE0NVx0
+					eDM4NzIzXHR4MzkzMDFcdHgzOTg3OVx0eDQw
+					NDU3XHR4NDEwMzVcdHg0MTYxM1x0eDQyMTkx
+					XHR4NDI3NjlcdHg0MzM0N1x0eDQzOTI1XHR4
+					NDQ1MDNcdHg0NTA4MVx0eDQ1NjU5XHR4NDYy
+					MzdcdHg0NjgxNVx0eDQ3MzkzXHR4NDc5NzFc
+					dHg0ODU0OVx0eDQ5MTI3XHR4NDk3MDVcdHg1
+					MDI4M1x0eDUwODYxXHR4NTE0MzlcdHg1MjAx
+					N1x0eDUyNTk1XHR4NTMxNzNcdHg1Mzc1MVx0
+					eDU0MzI5XHR4NTQ5MDdcdHg1NTQ4NVx0eDU2
+					MDYyXHR4NTY2NDBcdHg1NzIxOFx0eDU3Nzk2
+					XGxpMTE1NVxmaS0xMTU2XHBhcmRpcm5hdHVy
+					YWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxm
+					czI0IFxjZjIgXENvY29hTGlnYXR1cmUwIGJl
+					YXI6Ly94LWNhbGxiYWNrLXVybC9jcmVhdGU/
+					dGl0bGU9TXklMjBOb3RlJTIwVGl0bGUmdGV4
+					dD1GaXJzdCUyMGxpbmUmdGFncz1ob21lLGhv
+					bWUlMkZncm9jZXJpZXNcY2YwIFwKfQEAAAAj
+					AAAAAQAAAAcAAABUWFQucnRmEAAAADIEblq2
+					AQAAAAAAAAAAAAA=
+					</data>
+					<key>enteredText</key>
+					<string>bear://x-callback-url/create?title=My%20Note%20Title&amp;text=First%20line&amp;tags=home,home%2Fgroceries
+</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.GetSpecifiedText</string>
+				<key>CFBundleVersion</key>
+				<string>1.2.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryText</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMGetSpecifiedTextAction</string>
+				<key>IgnoresInput</key>
+				<false/>
+				<key>Keywords</key>
+				<array>
+					<string>Get</string>
+					<string>Text</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>C77E6EEF-8F1B-4289-84FF-3BC77F3B0DC4</string>
+				<key>UUID</key>
+				<string>843F578E-423C-4DBE-88D3-F9D9E2F7D179</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>TextEdit</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string></string>
+						<key>name</key>
+						<string>enteredRTFDData</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<string></string>
+						<key>name</key>
+						<string>enteredText</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>411.000000:289.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Get Specified Text.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run JavaScript.action</string>
+				<key>ActionName</key>
+				<string>Run JavaScript</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>function run() {		// Your script goes here	var today = new Date();    var dd = today.getDate();    var mm = today.getMonth()+1; //January is 0!    
+	var day = getDayOfWeek(today);
+	    var yyyy = today.getFullYear();    if(dd&lt;10){        dd='0'+dd;    }     if(mm&lt;10){        mm='0'+mm;    } 
+	
+	var objDate = new Date(),
+    locale = "en-us",
+    month = objDate.toLocaleString(locale, {month: "short"});
+	
+	var title = day + ', ' + month + ' ' + dd + ', ' + yyyy;     var tag = 'journal/' + yyyy + '/' + mm;
+		var text = ''; // type newlines as: '\n'		text = encodeURI(text);
+	title = encodeURI(title);
+
+	// bear://x-callback-url/create?title=My%20Note%20Title&amp;text=First%20line&amp;tags=home,home%2Fgroceries
+
+	var uri = 'bear://x-callback-url/create?title=' + title + '&amp;text=' + text + '&amp;tags=' + tag;		
+	return uri
+	}
+
+function getDayOfWeek(date) {
+  var dayOfWeek = new Date(date).getDay();    
+  return isNaN(dayOfWeek) ? null : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][dayOfWeek];
+}
+</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunJavaScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunJavaScriptAction</string>
+				<key>InputUUID</key>
+				<string>5DB9D011-3C64-4638-BAD4-5E5A5212ED40</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+					<string>JavaScript</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>BD6CB6ED-CDB0-4DB3-BA81-28F3B4D9AD7B</string>
+				<key>ShowWhenRun</key>
+				<false/>
+				<key>UUID</key>
+				<string>98F77130-EDCE-4F69-A700-308C501E5634</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>function run(input, parameters) {
+	
+	// Your script goes here
+
+	return input;
+}</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>411.000000:848.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run JavaScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<false/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.url</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Safari</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict/>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.url</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Display Webpages 2.action</string>
+				<key>ActionName</key>
+				<string>Display Webpages</string>
+				<key>ActionParameters</key>
+				<dict/>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.DisplayWebpages</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<false/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryInternet</string>
+				</array>
+				<key>Class Name</key>
+				<string>Display_Webpages</string>
+				<key>InputUUID</key>
+				<string>20EDF92A-72E1-49B3-A4F3-A73EC0A69BC5</string>
+				<key>Keywords</key>
+				<array>
+					<string>URL</string>
+					<string>Web</string>
+					<string>Display</string>
+					<string>Open</string>
+					<string>Show</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>EE431E77-5F31-488F-A0EC-710854DC6CD3</string>
+				<key>UUID</key>
+				<string>6B514778-52FD-4B73-A455-13D03220085B</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Safari</string>
+				</array>
+				<key>arguments</key>
+				<dict/>
+				<key>conversionLabel</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict>
+		<key>63D4B87C-5647-4D15-B271-D255F8DC1146</key>
+		<dict>
+			<key>from</key>
+			<string>843F578E-423C-4DBE-88D3-F9D9E2F7D179 - 843F578E-423C-4DBE-88D3-F9D9E2F7D179</string>
+			<key>to</key>
+			<string>98F77130-EDCE-4F69-A700-308C501E5634 - 98F77130-EDCE-4F69-A700-308C501E5634</string>
+		</dict>
+		<key>9795CD78-1D6E-4CB8-A83F-85EAFB5DE777</key>
+		<dict>
+			<key>from</key>
+			<string>98F77130-EDCE-4F69-A700-308C501E5634 - 98F77130-EDCE-4F69-A700-308C501E5634</string>
+			<key>to</key>
+			<string>6B514778-52FD-4B73-A455-13D03220085B - 6B514778-52FD-4B73-A455-13D03220085B</string>
+		</dict>
+	</dict>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.application</string>
+	</dict>
+</dict>
+</plist>

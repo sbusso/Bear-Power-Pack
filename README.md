@@ -17,7 +17,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS  
 	* Makes TOC in Bear Notes as bullet or num. list, 
 	* With or without HTML links.
-* [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – iOS  
+* [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – ::iOS & Mac::  
 	* Makes a journal entry in Bear with date, photo, address, and map links.
 	* Get tagged: `#journal/yyyy/MM`
 * [Import Zip to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Import%20Zip%20to%20Bear.md) – iOS  
