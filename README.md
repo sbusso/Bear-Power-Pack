@@ -1,6 +1,8 @@
 README
 
 # Bear Power Pack
+> *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
+
 A collection of workflows enhancing Bear writer app on iOS and Mac.
 
 Bear has a great implementation of export formats, x-callback-urls, and iOS Workflow.app integration, making extension like these possible.
@@ -10,7 +12,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 
 ## Workflows
 * [Publish from Bear to WordPress on iOS](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS  
-	* publishes notes from Bear to WordPress 
+	* Publishes notes from Bear to WordPress 
 	* With images, tags, and feature image.
 * [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS  
 	* Makes TOC in Bear Notes as bullet or num. list, 
