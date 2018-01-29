@@ -2,7 +2,7 @@
 Two workflows for snapshots (and restore) of Bear notes on iOS. 
 Great for backup (snapshot) of different stages of writing: 1st draft, 2nd, final, and published version.
 
-**Install workflow: [Bear Snaps or Backup](https://workflow.is/workflows/8c15998b126943db9eedaf14f02c1b4e)** – iOS  
+**Install workflow: [Bear Snaps or Backup](https://workflow.is/workflows/cb462e7bc64d4cab91ae7f7ce732008f)** – iOS  
 **Install workflow: [Bear Note Restore](https://workflow.is/workflows/c51585ffce924f93a6a2824aae00545a)** – iOS
 
 *Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
