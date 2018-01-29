@@ -1,6 +1,7 @@
 README
-
 # Bear Power Pack
+*2018-01-29*
+
 > *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
 
 A collection of workflows enhancing Bear writer app on iOS and Mac.
