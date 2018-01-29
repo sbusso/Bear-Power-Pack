@@ -48,7 +48,4 @@ PS. I got Bear for distraction free writing – see how that worked … 😉
 
 *Written with* 🐻 *on iOS and Mac*
 
-![](README/Winnie.gif)
-
-
 #bear/github
