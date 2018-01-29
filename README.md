@@ -24,6 +24,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Bear Photo Collection](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Collection.md) – iOS
 	* Get a bunch of your favorite snaps into one bear note.   
 	* With dates, places and map links.
+* [Bear Attach Files](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Attach%20Files.md) – iOS
+	* Multiple files to Bear - with file info
 * [Import Zip to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Import%20Zip%20to%20Bear.md) – iOS  
 	* Bulk import markdown or text files from a .zip archive.
 * [Bear Find & Replace](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Find%20%26%20Replace.md) – iOS 
