@@ -1,13 +1,13 @@
 # Publish from Bear to WordPress on iOS
 *Version 1.7 - 2018-01-23*
 
-This workflow publishes notes from Bear to WordPress with images, tags, and feature image.
+This workflow 	publishes notes from Bear to WordPress with images, tags, and feature image.
 
 It works well with both WordPress.com and WordPress.org (self hosted WordPress) sites.
 
 **Install Workflow:  [Bear note to WordPress](https://workflow.is/workflows/c9ece7c8e2e64d4599c74ed6824f54b4)** – iOS
 
-*See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
+*Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
 <!--TOC-->
 <a id="toc-top"></a>
@@ -131,7 +131,7 @@ Big thanks to [Regex101](https://regex101.com/), without this tool, my head woul
 #wp/bears #wp# #wp/dogs #wp/horses and cows# #wp/horses and goats# #Bear  
 Oops! Not published with this workflow ;)
 
-*Written and edited in* 🐻 *on iOS and Mac*
+*Written with* 🐻 *on iOS and Mac*
 
-#github/bear
+#bear/github
 

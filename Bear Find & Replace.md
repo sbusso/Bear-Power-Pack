@@ -1,11 +1,11 @@
-# Bear Search & Replace
-*Version 1.1 – 2018-01-27*
+# Bear Find & Replace
+*Version 1.2 – 2018-01-28*
 
 Text replace, RegEx, and text factories on Bear notes on iOS.
 
-**Install workflow: [Bear Search & Replace](https://workflow.is/workflows/1c1d07a554b54822a98ea5fb16147aad)** – iOS
+**Install workflow: [Bear Find & Replace](https://workflow.is/workflows/1c1d07a554b54822a98ea5fb16147aad)** – iOS
 
-*See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
+*Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
 ### Features
 - Input text from Bear TXT file export  
@@ -15,6 +15,8 @@ Text replace, RegEx, and text factories on Bear notes on iOS.
 - Choice of plain text replace, case sensitive, or RegEx
 - Predefined text factories
 
-*Written and edited in* 🐻 *on iOS and Mac*
+*Written with* 🐻 *on iOS and Mac*
 
-#github/bear
+[Bear Find & Replace](https://workflow.is/workflows/07df1cee41f14221a93de30db6a27b1b)
+
+#bear/github

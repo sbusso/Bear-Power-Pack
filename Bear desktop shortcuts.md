@@ -3,7 +3,7 @@
 
 Make any Bear x-callback-url command into a Mac desktop shortcut.
 
-*See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
+*Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
 ## How to make them
 1. Paste a complete Bear x-callback-url command to Safari address field,   but **don’t press return!**
@@ -25,6 +25,6 @@ See: [X callback url Scheme documentation - Bear - Faq and support](http://www.b
 * [Bear - Panic Mode.inetloc](assets/Bear%20-%20Panic%20Mode.inetloc?raw=true) 
 * [Bear - Charcoal.inetloc](assets/Bear%20-%20Charcoal.inetloc?raw=true)
 
-#github/bear
+*Written with* 🐻 *on iOS and Mac*
 
-
+#bear/github

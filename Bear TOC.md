@@ -5,7 +5,7 @@ Makes TOC in Bear Notes on iOS as bullet or number list, with or without HTML li
 
 **Install Workflow: [Bear TOC](https://workflow.is/workflows/0ebf0876498f47feb60cc1426e7fa5b8)** – iOS
 
-*See also: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
+*Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
 ### Features
 - Input text from Bear TXT file export.  
@@ -19,6 +19,6 @@ Makes TOC in Bear Notes on iOS as bullet or number list, with or without HTML li
 - Delete or reapply TOC to edited “toc’ed” note, or use from original as a last step before publish.
 - On Mac you can use [Marked 2](http://marked2app.com) that works very well with Bear and has a more advanced TOC function (uses same `<!--TOC-->` tag).
 
-*Written and edited in* 🐻 *on iOS and Mac*
+*Written with* 🐻 *on iOS and Mac*
 
-#github/bear
+#bear/github

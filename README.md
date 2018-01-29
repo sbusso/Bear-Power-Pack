@@ -20,9 +20,12 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – **iOS & Mac**  
 	* Makes a journal entry in Bear with date, photo, address, and map links.
 	* Get tagged: `#journal/yyyy/MM`
+* [Bear Photo Collection](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Collection.md) – iOS
+	* Get a bunch of your favorite snaps into one bear note.   
+	* With dates, places and map links.
 * [Import Zip to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Import%20Zip%20to%20Bear.md) – iOS  
 	* Bulk import markdown or text files from a .zip archive.
-* [Bear Search & Replace](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Search%20%26%20Replace.md) – iOS  
+* [Bear Find & Replace](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Find%20%26%20Replace.md) – iOS 
 	* Text replace, RegEx, and text factories on Bear notes.
 * [Bear snapshot and restore](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20snapshot%20and%20restore.md) – iOS 
 	* Saves any file type, export all notes, or Bear backups to designated iCloud Drive folders, with date stamp added to filename or folder name.
@@ -40,6 +43,6 @@ PS. I got Bear for distraction free writing – see how that worked … 😉
 > *There will be no user support, but it’s quite easy to modify them.*     
 > *If you mess up, just download a fresh copy. Have fun!* 🤓  
 
-*Written and edited in* 🐻 *on iOS and Mac*
+*Written with* 🐻 *on iOS and Mac*
 
-#github/bear
+#bear/github
