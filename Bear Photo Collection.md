@@ -8,11 +8,11 @@ With dates, places and map links.
 
 ## Features
 * Pick multiple photos
-- Resized to width 800
-- With image dates, & addresses, 
-- Apple and Google map links.
-- Tagged `#journal/photos`
-- Produced and imported to Bear as textbundle.
+* Resized to width 800
+* With image dates, & addresses, 
+* Apple and Google map links.
+* Tagged `#journal/photos`
+* Produced and imported to Bear as textbundle.
 
 *Written with* 🐻 *on iOS and Mac*
 
