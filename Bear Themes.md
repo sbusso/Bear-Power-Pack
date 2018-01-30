@@ -4,6 +4,8 @@
 ```
 Bear Themes
 
+(Change according to your moods;)
+
 * [Red Graphite](bear://x-callback-url/change-theme?theme=Red%20Graphite)
 * [Charcoal](bear://x-callback-url/change-theme?theme=Charcoal)
 * [Solarized Light](bear://x-callback-url/change-theme?theme=Solarized%20Light)
