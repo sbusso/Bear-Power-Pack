@@ -1,6 +1,6 @@
 README
 # Bear Power Pack
-*2018-01-29*
+*2018-01-30*
 
 > *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
 
@@ -39,6 +39,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Remote edits and new notes get synced back into Bear.
 * [Bear desktop shortcuts](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20desktop%20shortcuts.md) – Mac
 	* Make any Bear x-callback-url command into a Mac desktop shortcut.
+* [Predefined Searches](https://github.com/rovest/Bear-Power-Pack/blob/master/Predefined%20Searches.md) – Mac & iOS
+* [Bear Themes](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Themes.md) – Mac & iOS
 
 PS. I got Bear for distraction free writing – see how that worked … 😉
 
