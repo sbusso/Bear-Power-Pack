@@ -41,7 +41,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Make any Bear x-callback-url command into a Mac desktop shortcut.
 * [Predefined Searches](https://github.com/rovest/Bear-Power-Pack/blob/master/Predefined%20Searches.md) – Mac & iOS
 * [Bear Themes](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Themes.md) – Mac & iOS
-* [Make Bear Template](https://github.com/rovest/Bear-Power-Pack/blob/master/Make%20Bear%20Template.md)
+* [Make Bear Template](https://github.com/rovest/Bear-Power-Pack/blob/master/Make%20Bear%20Template.md) – iOS (result also for Mac)
 
 PS. I got Bear for distraction free writing – see how that worked … 😉
 

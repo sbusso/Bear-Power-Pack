@@ -14,7 +14,7 @@ Makes Note Template entries as x-callback-url to create new notes.
 (see sample below)
 
 ## Sample
-Copy and paste code below as your Template Collection Note
+Copy and paste code below into a new note as your Template Collection:
 
 ```
 # Note Templates
