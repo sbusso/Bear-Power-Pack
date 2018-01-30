@@ -1,5 +1,8 @@
 # Predefined Searches
-(Copy and paste this into new Bear note!)
+Copy and paste this into new Bear note:
+
+```
+Predefined Searches
 
 0. [Empty search](bear://x-callback-url/search?term=)
 1. [@untagged](bear://x-callback-url/search?term=@untagged)
@@ -13,5 +16,8 @@
 9. [@done](bear://x-callback-url/search?term=@done)
 10. [@code](bear://x-callback-url/search?term=@code)
 
+#.inbox #.shortcuts
+
+```
 
 #.inbox #.shortcuts #bear/github

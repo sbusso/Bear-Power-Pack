@@ -1,5 +1,8 @@
 # Bear Themes 
-(Copy and paste this into new Bear note!)
+Copy and paste this into new Bear note:
+
+```
+Bear Themes
 
 * [Red Graphite](bear://x-callback-url/change-theme?theme=Red%20Graphite)
 * [Charcoal](bear://x-callback-url/change-theme?theme=Charcoal)
@@ -13,5 +16,10 @@
 * [Duotone Light](bear://x-callback-url/change-theme?theme=Duotone%20Light)
 * [Duotone Snow](bear://x-callback-url/change-theme?theme=Duotone%20Snow)
 * [Dieci](bear://x-callback-url/change-theme?theme=Dieci)
+
+#.shortcuts 
+
+```
+
 
 #.shortcuts #bear/github
