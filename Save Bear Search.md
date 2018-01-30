@@ -12,7 +12,7 @@
 ## How to use
 1. Install workflow above
 2. Copy and paste complete code below into a new Bear note:
-3. Copy any Bear searches and run workflow (see note in point 2.)
+3. Copy any Bear searches and run workflow (click on Run-link in note copied from code below)
 
 ```
 Saved Searches
@@ -22,7 +22,7 @@ Saved Searches
 ### Save a favorite search:   
 1. Copy a Bear search term that works as intended
 2. **Run**: [Save Bear Search](workflow://run-workflow?name=Save%20Bear%20Search)
-3. Automatically added to top of this note.
+3. New search link automatically added to top of this note :)
 
 ### Special Searches
 * [Empty search](bear://x-callback-url/search?term=)
