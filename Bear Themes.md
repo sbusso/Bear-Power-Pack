@@ -1,5 +1,5 @@
 # Bear Themes 
-Copy and paste this into new Bear note:
+**Copy and paste code into new Bear note:**
 
 ```
 Bear Themes
@@ -18,8 +18,7 @@ Bear Themes
 * [Dieci](bear://x-callback-url/change-theme?theme=Dieci)
 
 #.shortcuts 
-
 ```
 
 
-#.shortcuts #bear/github
+#bear/github

@@ -1,5 +1,5 @@
 # Predefined Searches
-Copy and paste this into new Bear note:
+**Copy and paste code into new Bear note:**
 
 ```
 Predefined Searches
@@ -17,7 +17,6 @@ Predefined Searches
 10. [@code](bear://x-callback-url/search?term=@code)
 
 #.inbox #.shortcuts
-
 ```
 
-#.inbox #.shortcuts #bear/github
+#bear/github
