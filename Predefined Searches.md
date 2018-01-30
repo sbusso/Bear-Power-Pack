@@ -1,4 +1,5 @@
 # Predefined Searches
+(Copy and paste this into new Bear note!)
 
 0. [Empty search](bear://x-callback-url/search?term=)
 1. [@untagged](bear://x-callback-url/search?term=@untagged)
