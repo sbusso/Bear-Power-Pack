@@ -25,9 +25,9 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Get a bunch of your favorite snaps into one bear note.   
 	* With dates, places and map links.
 * [Bear Attach Files](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Attach%20Files.md) – iOS
-	* Multiple files to Bear - with file info
+	* Multiple files into one Bear note - with file info
 * [Import Zip to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Import%20Zip%20to%20Bear.md) – iOS  
-	* Bulk import markdown or text files from a .zip archive.
+	* Bulk markdown or text files import from a .zip archive.
 * [Bear Find & Replace](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Find%20%26%20Replace.md) – iOS 
 	* Text replace, RegEx, and text factories on Bear notes.
 * [Bear snapshot and restore](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20snapshot%20and%20restore.md) – iOS 
@@ -40,8 +40,11 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Bear desktop shortcuts](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20desktop%20shortcuts.md) – Mac
 	* Make any Bear x-callback-url command into a Mac desktop shortcut.
 * [Save Bear Search](https://github.com/rovest/Bear-Power-Pack/blob/master/Save%20Bear%20Search.md) – iOS (result also for Mac)
+	* Saves searches as clickable action links in a “Saved Searches” note.
 * [Bear Themes](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Themes.md) – Mac & iOS
+	* Demo of clickable Theme changing action links in one Bear Note.
 * [Make Bear Template](https://github.com/rovest/Bear-Power-Pack/blob/master/Make%20Bear%20Template.md) – iOS (result also for Mac)
+	* Convert a note into clickable template action links in one “Templates” note
 
 PS. I got Bear for distraction free writing – see how that worked … 😉
 
