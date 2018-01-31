@@ -57,7 +57,8 @@ Settings in Bear: `Keep tags during export` must be on for this feature to work.
 
 <a id="toc-3"></a>
 ## [Geeky Workarounds](#toc-top)
-*Note! If you are not a geek, you may stop reading now, unless you want to get a headache;) Everything you need to know is written above* 🤓
+*Note! If you are not a geek, you may stop reading now, unless you want to get a headache;)  
+Everything you need to know is written above* 🤓
 
 Had to make a few workarounds to get this to work properly:
 
