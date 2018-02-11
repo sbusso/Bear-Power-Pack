@@ -1,6 +1,6 @@
 README
 # Bear Power Pack
-*2018-01-30*
+*2018-02-11*
 
 > *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
 
@@ -15,6 +15,11 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Publish from Bear to WordPress on iOS](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS  
 	* Publishes notes from Bear to WordPress 
 	* With images, tags, and feature image.
+* [Bear Markdown and textbundle import – tags from files and folders](https://github.com/rovest/Bear-Markdown-Export/blob/master/Bear%20Import.md) – Mac (& iOS light version)
+	* Imports markdown or textbundles from nested folders
+	* Foldernames and MacOS file tags to Bear tags
+	* Email to Bear, or import nested groups from Ulysses (images and keywords included)
+
 * [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS  
 	* Makes TOC in Bear Notes as bullet or num. list, 
 	* With or without HTML links.
@@ -53,5 +58,3 @@ PS. I got Bear for distraction free writing – see how that worked … 😉
 > *If you mess up, just download a fresh copy. Have fun!* 🤓  
 
 *Written with* 🐻 *on iOS and Mac*
-
-#bear/github
