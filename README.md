@@ -1,6 +1,6 @@
 README
 # Bear Power Pack
-*2018-02-11*
+*2018-02-11 at 22:53 EST*
 
 > *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
 
@@ -19,7 +19,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Imports markdown or textbundles from nested folders
 	* Foldernames and MacOS file tags to Bear tags
 	* Email to Bear, or import nested groups from Ulysses (images and keywords included)
-
+- [Bear-Simplenote-Import](https://github.com/rovest/Bear-Simplenote-Import) – Mac python3
+	* Import from Simlenote to Bear with tags, creation, and modified dates.
 * [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS  
 	* Makes TOC in Bear Notes as bullet or num. list, 
 	* With or without HTML links.
@@ -38,7 +39,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Bear snapshot and restore](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20snapshot%20and%20restore.md) – iOS 
 	* Saves any file type, export all notes, or Bear backups to designated iCloud Drive folders, with date stamp added to filename or folder name.
 	* Restores single notes from snapshots, exports or backups.
-* [Markdown export and sync of Bear notes](https://github.com/rovest/Bear-Markdown-Export) – Mac – Python 3
+* [Markdown export and sync of Bear notes](https://github.com/rovest/Bear-Markdown-Export) – Mac python3
 	* Export and roundtrip sync of Bear's notes to OneDrive, Dropbox, etc. 
 	* Edit or share online in browser, or edit on Android and Windows in any markdown editor there.
 	* Remote edits and new notes get synced back into Bear.
