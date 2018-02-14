@@ -1,6 +1,6 @@
 README
 # Bear Power Pack
-*2018-02-11 at 22:53 EST*
+*2018-02-14 at 00:15 EST*
 
 > *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
 
@@ -12,6 +12,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 🦁🤓
 
 ## Workflows
+* [Apple Notes Export to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – Mac
+	* Includes Title, headings, links, bold, italic, lists, images, and files. 
 * [Publish from Bear to WordPress on iOS](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS  
 	* Publishes notes from Bear to WordPress 
 	* With images, tags, and feature image.
