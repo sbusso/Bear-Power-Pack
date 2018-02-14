@@ -12,7 +12,7 @@ Set Notes' Preferences to `Sort notes by: Date Edited` or by: `Date Created` bef
 1. Close other apps and do not use Mac while this macro is running.
 2. Open Notes and select folder.
 3. Run this macro from Keyboard Maestro status menu
-4. Set tag at prompt with folder name or whatever.
+4. Set Bear tag at prompt with folder name (or whatever).
 
 Repeat for each of Notes’ foldes you like to export/import to Bear
 
