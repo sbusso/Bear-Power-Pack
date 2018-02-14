@@ -18,55 +18,95 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6HAwAAKwAAAAEA
-						AAB/AwAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC4zBAAAKwAAAAEA
+						AAArBAAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYxNTYx
 						XGNvY29hc3VicnRmMjAwCntcZm9u
 						dHRibFxmMFxmbmlsXGZjaGFyc2V0
 						MCBIZWx2ZXRpY2FOZXVlO30Ke1xj
 						b2xvcnRibDtccmVkMjU1XGdyZWVu
 						MjU1XGJsdWUyNTU7XHJlZDBcZ3Jl
-						ZW4wXGJsdWUwO30Ke1wqXGV4cGFu
-						ZGVkY29sb3J0Ymw7O1xjc2dyYXlc
-						YzA7fQpccGFyZFx0eDU2MFx0eDEx
-						MjBcdHgxNjgwXHR4MjI0MFx0eDI4
-						MDBcdHgzMzYwXHR4MzkyMFx0eDQ0
-						ODBcdHg1MDQwXHR4NTYwMFx0eDYx
-						NjBcdHg2NzIwXHBhcmRpcm5hdHVy
-						YWxccGFydGlnaHRlbmZhY3RvcjAK
-						ClxmMFxmczI2IFxjZjIgMS4gT3Bl
-						biBOb3RlcyBhbmQgc2VsZWN0IGZv
-						bGRlci5cCjIuIFJ1biB0aGlzIG1h
-						Y3JvIGZyb20gS2V5Ym9hcmQgTWFl
-						c3RybyBzdGF0dXMgbWVudVwKMy4g
-						U2V0IHRhZyBhdCBwcm9tcHQgd2l0
-						aCBmb2xkZXIgbmFtZSBvciB3aGF0
-						ZXZlci4gXApcClJlcGVhdCBmb3Ig
-						ZWFjaCBvZiBOb3Rlc1wnOTIgZm9s
-						ZGVzIHlvdSBsaWtlIHRvIGV4cG9y
-						dC9pbXBvcnQgdG8gQmVhclwKXApJ
-						bmNsdWRlcyBUaXRsZSwgaGVhZGlu
-						Z3MsIGxpbmtzLCBmb3JtYXQsIGxp
-						c3RzLCBpbWFnZXMsIGFuZCBldmVu
-						IGZpbGVzLiBcClwKSXNzdWVzIVwK
-						LSBJdCB1c2VzIGNvcHkvcGFzdGUg
-						YXMgcmljaCB0ZXh0IGFuZCB3aWxs
-						IHRha2UgaXRcJzkycyB0aW1lLiBc
-						Ci0gQ2xvc2Ugb3RoZXIgYXBwcyBh
-						bmQgZG8gbm90IHVzZSBNYWMgd2hp
-						bGUgdGhpcyBtYWNybyBpcyBydW5u
-						aW5nLlwKLSBOb3Rlc1wnOTIgbW9u
-						b3NwYWNlZCBzdHlsZSB3aWxsIGZv
-						ciBzb21lIHJlYXNvbiBiZWNvbWUg
-						SDMgaW4gQmVhclwKLSBOdW1iZXJl
-						ZCBsaXN0cyBzdGFydHMgYXQgMC4g
-						YW5kIG5lZWQgdG8gYmUgY2hhbmdl
-						ZCB0byAxLiBtYW51YWxseVwKfQEA
-						AAAjAAAAAQAAAAcAAABUWFQucnRm
-						EAAAANKvg1q2AQAAAAAAAAAAAAA=
+						ZW4wXGJsdWUwO1xyZWQwXGdyZWVu
+						MFxibHVlMDt9CntcKlxleHBhbmRl
+						ZGNvbG9ydGJsOztcY3NncmF5XGMw
+						O1xjc2dyYXlcYzA7fQpccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKClxmMFxmczI2IFxj
+						ZjIgSW5jbHVkZXMgVGl0bGUsIGhl
+						YWRpbmdzLCBsaW5rcywgZm9ybWF0
+						LCBsaXN0cywgaW1hZ2VzLCBhbmQg
+						ZXZlbiBmaWxlcy4gXApccGFyZFx0
+						eDU2MFx0eDExMjBcdHgxNjgwXHR4
+						MjI0MFx0eDI4MDBcdHgzMzYwXHR4
+						MzkyMFx0eDQ0ODBcdHg1MDQwXHR4
+						NTYwMFx0eDYxNjBcdHg2NzIwXHBh
+						cmRpcm5hdHVyYWxccGFydGlnaHRl
+						bmZhY3RvcjAKXGNmMyBcCjEuIE9w
+						ZW4gTm90ZXMgYW5kIHNlbGVjdCBh
+						IGZvbGRlciAob3IgYWxsIG5vdGVz
+						KVwKMi4gUnVuIHRoaXMgbWFjcm8g
+						ZnJvbSBLZXlib2FyZCBNYWVzdHJv
+						IHN0YXR1cyBtZW51XAozLiBTZXQg
+						dGFnIGF0IHByb21wdCB3aXRoIGZv
+						bGRlciBuYW1lIG9yIHdoYXRldmVy
+						LiBcClwKUmVwZWF0IGZvciBlYWNo
+						IG9mIE5vdGVzXCc5MiBmb2xkZXMg
+						eW91IGxpa2UgdG8gZXhwb3J0L2lt
+						cG9ydCB0byBCZWFyXApcCklzc3Vl
+						cyFcCi0gSXQgdXNlcyBjb3B5L3Bh
+						c3RlIGFzIHJpY2ggdGV4dCBhbmQg
+						d2lsbCB0YWtlIGl0XCc5MnMgdGlt
+						ZS4gXAotIENsb3NlIG90aGVyIGFw
+						cHMgYW5kIGRvIG5vdCB1c2UgTWFj
+						IHdoaWxlIHRoaXMgbWFjcm8gaXMg
+						cnVubmluZy5cCi0gTm90ZXNcJzky
+						IG1vbm9zcGFjZWQgc3R5bGUgd2ls
+						bCBmb3Igc29tZSByZWFzb24gYmVj
+						b21lIEgzIGluIEJlYXJcCi0gTnVt
+						YmVyZWQgbGlzdHMgc3RhcnRzIGF0
+						IDAuIGFuZCBuZWVkIHRvIGJlIGNo
+						YW5nZWQgdG8gMS4gbWFudWFsbHlc
+						Cn0BAAAAIwAAAAEAAAAHAAAAVFhU
+						LnJ0ZhAAAACIsoNatgEAAAAAAAAA
+						AAAA
 						</data>
 						<key>Title</key>
 						<string>Read Me! Export to Bear</string>
+					</dict>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>OpenURL</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>URL</key>
+						<string>bear://x-callback-url/search?term=</string>
+					</dict>
+					<dict>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.apple.Notes</string>
+							<key>Name</key>
+							<string>Notes</string>
+							<key>NewFile</key>
+							<string>/Applications/Notes.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Buttons</key>
@@ -314,8 +354,6 @@
 								</dict>
 								<key>ElseActions</key>
 								<array/>
-								<key>IsActive</key>
-								<false/>
 								<key>MacroActionType</key>
 								<string>IfThenElse</string>
 								<key>ThenActions</key>
@@ -610,9 +648,9 @@ Would you like to continue execution or stop now?</string>
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/Bear.app</string>
 				<key>ModificationDate</key>
-				<real>540272465.80823302</real>
+				<real>540281299.72636497</real>
 				<key>Name</key>
-				<string>Mac Notes Export to Bear</string>
+				<string>Apple Notes Export to Bear</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
