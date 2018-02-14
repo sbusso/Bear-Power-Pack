@@ -4,6 +4,8 @@ Includes Title, headings, links, text format, lists, images, and even files.
 **Download macro:  [Mac Notes Export to Bear.kmmacros](https://forum.keyboardmaestro.com/uploads/default/original/3X/e/0/e0af9b09dac47a44725e22fbe382a04e11bde021.kmmacros)** – Mac   
 With *Keyboard Maestro* (trial should work) 
 
+*Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
+
 ## How to use
 Set Notes' Preferences to `Sort notes by: Date Edited` or by: `Date Created` before running macro.
 
