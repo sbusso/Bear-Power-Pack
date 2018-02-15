@@ -1,7 +1,7 @@
 # Apple Notes Export to Bear
 Includes Title, headings, links, text format, lists, images, and even files.
 
-**Download macro: [Apple Notes Export to Bear.kmmacros](https://forum.keyboardmaestro.com/uploads/default/original/3X/1/2/12c3960632dd69a090e023d7c7dd4655989ccde3.kmmacros)** – Mac   
+**Download macro: [Apple Notes Export to Bear.kmmacros](/uploads/default/original/3X/8/8/88670fbb428f3eee0be4c043789e6c394f9344cd.kmmacros)** – Mac   
 With *Keyboard Maestro* (trial should work) 
 
 *Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
