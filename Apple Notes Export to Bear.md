@@ -2,7 +2,7 @@
 Includes Title, headings, links, text format, lists, images, and even files.
 
 **Download macro: [Apple Notes Export to Bear.kmmacros](https://forum.keyboardmaestro.com/uploads/default/original/3X/8/8/88670fbb428f3eee0be4c043789e6c394f9344cd.kmmacros)** – Mac   
-With *Keyboard Maestro* (trial should work) 
+With *Keyboard Maestro* 
 
 *Part of: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*
 
