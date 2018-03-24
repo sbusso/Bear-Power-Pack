@@ -31,6 +31,7 @@ Saved Searches
 * [@untagged](bear://x-callback-url/search?term=@untagged)
 * [@today](bear://x-callback-url/search?term=@today)
 * [@yesterday](bear://x-callback-url/search?term=@yesterday)
+* [@last7days](bear://x-callback-url/search?term=@last7days)
 * [@images](bear://x-callback-url/search?term=@images)
 * [@files](bear://x-callback-url/search?term=@files)
 * [@attachments](bear://x-callback-url/search?term=@attachments)
