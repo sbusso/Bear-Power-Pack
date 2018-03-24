@@ -18,7 +18,9 @@
 Saved Searches
 * [@todo #errands](bear://x-callback-url/search?term=@todo%20%23errands%20-%23.shortcuts)
 * [@images grand canyon](bear://x-callback-url/search?term=@images%20grand%20canyon)
-- - - -
+
+----
+
 ### Save a favorite search:   
 1. Copy a Bear search term that works as intended
 2. **Run**: [Save Bear Search](workflow://run-workflow?name=Save%20Bear%20Search)
