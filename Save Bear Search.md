@@ -44,7 +44,7 @@ Get workflow: [Save Bear Search](https://github.com/rovest/Bear-Power-Pack/blob/
 
 See FAQ: [Advanced search options in Bear - Shiny Frog FAQ](http://www.bear-writer.com/faq/Advanced%20search%20options%20in%20Bear)
 
-#.inbox #.shortcuts
+#.shortcuts
 
 ```
 
