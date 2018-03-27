@@ -1,6 +1,6 @@
 README
 # Bear Power Pack
-*2018-02-14 at 00:15 EST*
+*2018-03-27 at 19:48 EST*
 
 > *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
 
@@ -12,6 +12,9 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 🦁🤓
 
 ## Workflows
+
+- [Bear Voice Recording](https://workflow.is/workflows/3a86e71a51a349dab32ccf4c8bed4208) – iOS
+	- Workflow can be triggered from Today Widget, or (as a workaround) from editor share (Run Workflow) on selected text.
 * [Apple Notes Export to Bear](https://github.com/rovest/Bear-Power-Pack/blob/master/Apple%20Notes%20Export%20to%20Bear.md) – Mac
 	* Includes Title, headings, links, bold, italic, lists, images, and files. 
 * [Publish from Bear to WordPress on iOS](https://github.com/rovest/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS  
@@ -23,7 +26,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Email to Bear, or import nested groups from Ulysses (images and keywords included)
 - [Bear-Simplenote-Import](https://github.com/rovest/Bear-Simplenote-Import) – Mac python3
 	* Import from Simlenote to Bear with tags, creation, and modified dates.
-* [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS  
+* [Bear TOC](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20TOC.md) – iOS
 	* Makes TOC in Bear Notes as bullet or num. list, 
 	* With or without HTML links.
 * [Bear Photo Journal](https://github.com/rovest/Bear-Power-Pack/blob/master/Bear%20Photo%20Journal.md) – **iOS & Mac**  
