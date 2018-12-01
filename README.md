@@ -2,8 +2,6 @@ README
 # Bear Power Pack
 *2018-03-27 at 19:48 EST*
 
-> *On GitHub: [Bear Power Pack](https://github.com/rovest/Bear-Power-Pack/blob/master/README.md)*  
-
 A collection of workflows enhancing Bear writer app on iOS and Mac.
 
 Bear has a great implementation of export formats, x-callback-urls, and iOS Workflow.app integration, making extension like these possible.
