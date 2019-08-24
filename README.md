@@ -15,6 +15,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Workflow can be triggered from Today Widget, or (as a workaround) from editor share (Run Workflow) on selected text.
 * [Apple Notes Export to Bear](https://github.com/sbusso/Bear-Power-Pack/blob/master/Apple%20Notes%20Export%20to%20Bear.md) – Mac
 	* Includes Title, headings, links, bold, italic, lists, images, and files.
+* [Google Keep Export to Bear](https://github.com/pelillian/Keep-to-Bear) - Mac
+	* Works with images, and preserves all of your tags, links, dates, headings etc.
 * [Publish from Bear to WordPress on iOS](https://github.com/sbusso/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS
 	* Publishes notes from Bear to WordPress
 	* With images, tags, and feature image.
