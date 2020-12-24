@@ -56,9 +56,9 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Demo of clickable Theme changing action links in one Bear Note.
 * [Make Bear Template](https://github.com/sbusso/Bear-Power-Pack/blob/master/Make%20Bear%20Template.md) – iOS (result also for Mac)
 	* Convert a note into clickable template action links in one “Templates” note
+* [Note link janitor](https://github.com/andymatuschak/note-link-janitor) - Mac typescript
+	* Maintains backlink structure among interlinked Markdown notes
 * [Alfred 3 workflow to create and search notes in Bear](https://github.com/chrisbro/alfred-bear) - Mac
-
-PS. I got Bear for distraction free writing – see how that worked … 😉
 
 > *Disclaimer: these workflows are free to use, change, or fix.*
 > *There will be no user support, but it’s quite easy to modify them.*
