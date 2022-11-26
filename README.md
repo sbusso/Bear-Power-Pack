@@ -41,6 +41,11 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Bulk markdown or text files import from a .zip archive.
 * [Bear Find & Replace](https://github.com/sbusso/Bear-Power-Pack/blob/master/Bear%20Find%20%26%20Replace.md) – iOS
 	* Text replace, RegEx, and text factories on Bear notes.
+* [Bear-Auto-Publisher](https://github.com/HibikeQuantum/Bear-Auto-Publisher) - Mac
+	* It's a batch program for BEAR users who want to use BEAR like a git. 
+		1. export bear notes 
+		2. Automatically commit and push and show diff from previous status 
+		2. Make a daily graph that has document changes data.
 * [Bear snapshot and restore](https://github.com/sbusso/Bear-Power-Pack/blob/master/Bear%20snapshot%20and%20restore.md) – iOS
 	* Saves any file type, export all notes, or Bear backups to designated iCloud Drive folders, with date stamp added to filename or folder name.
 	* Restores single notes from snapshots, exports or backups.
