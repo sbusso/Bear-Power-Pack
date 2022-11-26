@@ -1,6 +1,6 @@
 README
 # Bear Power Pack
-*2020-12-24 at 17:56 NZDT*
+*2022-11-27 at 10:56 NZDT*
 
 A collection of workflows enhancing Bear writer app on iOS and Mac.
 
