@@ -17,6 +17,8 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 	* Includes Title, headings, links, bold, italic, lists, images, and files.
 * [Google Keep Export to Bear](https://github.com/pelillian/Keep-to-Bear) - Mac
 	* Works with images, and preserves all of your tags, links, dates, headings etc.
+* [BearSync](https://github.com/d4rkd3v1l/BearSync) - Mac
+	* MacOS app to synchronize Bear App notes between different accounts via git.
 * [Publish from Bear to WordPress on iOS](https://github.com/sbusso/Bear-Power-Pack/blob/master/Publish%20from%20Bear%20to%20WordPress%20on%20iOS.md) – iOS
 	* Publishes notes from Bear to WordPress
 	* With images, tags, and feature image.
@@ -64,6 +66,7 @@ Hope these workflows can be useful examples and inspire to more workflows. Hopef
 * [Note link janitor](https://github.com/andymatuschak/note-link-janitor) - Mac typescript
 	* Maintains backlink structure among interlinked Markdown notes
 * [Alfred 3 workflow to create and search notes in Bear](https://github.com/chrisbro/alfred-bear) - Mac
+
 
 > *Disclaimer: these workflows are free to use, change, or fix.*
 > *There will be no user support, but it’s quite easy to modify them.*
